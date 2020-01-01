@@ -45,8 +45,8 @@
 #include "SimpleTimer.h"
 
 // Site specfic variables
-const char* ssid = "A_Virtual_Information";
-const char* password = "BananaRock";
+const char* ssid = "ssid";
+const char* password = "pwd";
 
 boolean connectWifi();
 boolean wifiConnected = false;
